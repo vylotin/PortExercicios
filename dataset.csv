@@ -1,0 +1,21 @@
+id_pedido,data_pedido,id_cliente,genero_livro,titulo_livro,autor,preco_unitario,quantidade,cidade_cliente,estado_cliente
+1001,2024-01-15,C879,Ficção Científica,Duna,Frank Herbert,55.9,2,São Paulo,SP
+1002,2024-01-16,C123,Desenvolvimento Pessoal,O Poder do Hábito,Charles Duhigg,42.5,1,Rio de Janeiro,RJ
+1003,2024-01-18,C543,Não-Ficção,Sapiens: Uma Breve História da Humanidade,Yuval Noah Harari,61.0,1,Belo Horizonte,MG
+1004,2024-01-20,C879,Ficção Científica,O Guia do Mochileiro das Galáxias,Douglas Adams,38.0,3,São Paulo,SP
+1005,2024-02-05,C321,Fantasia,O Senhor dos Anéis,J.R.R. Tolkien,75.0,1,Porto Alegre,RS
+1006,2024-02-10,C123,Desenvolvimento Pessoal,Mindset: A Nova Psicologia do Sucesso,Carol S. Dweck,49.9,1,Rio de Janeiro,RJ
+1007,2024-02-12,C789,Técnico,Python para Análise de Dados,Wes McKinney,89.9,1,São Paulo,SP
+1008,2024-03-01,C543,Não-Ficção,21 Lições para o Século 21,Yuval Noah Harari,58.5,2,Belo Horizonte,MG
+1009,2024-03-05,C321,Fantasia,A Guerra dos Tronos,George R.R. Martin,65.0,1,Porto Alegre,RS
+1010,2024-03-20,C999,Ficção Científica,Fundação,Isaac Asimov,52.0,1,Curitiba,PR
+1011,2024-04-10,C123,Desenvolvimento Pessoal,Os 7 Hábitos das Pessoas Altamente Eficazes,Stephen R. Covey,44.0,1,Rio de Janeiro,RJ
+1012,2024-04-12,C879,Técnico,Mãos à Obra: Design Patterns,Erich Gamma et al.,95.5,1,São Paulo,SP
+1013,2024-05-22,C789,Técnico,Introdução à Computação,Vários Autores,120.0,2,São Paulo,SP
+1014,2024-06-15,C543,Não-Ficção,Homo Deus: Uma Breve História do Amanhã,Yuval Noah Harari,63.0,1,Belo Horizonte,MG
+1015,2024-06-25,C999,Ficção Científica,Duna,Frank Herbert,55.9,1,Curitiba,PR
+1016,2024-07-07,C321,Fantasia,O Hobbit,J.R.R. Tolkien,40.0,3,Porto Alegre,RS
+1017,2024-07-19,C123,Desenvolvimento Pessoal,O Poder do Hábito,Charles Duhigg,42.5,1,Rio de Janeiro,RJ
+1018,2024-08-30,C879,Técnico,Clean Code,Robert C. Martin,79.9,1,São Paulo,SP
+1019,2024-09-11,C789,Técnico,Python para Análise de Dados,Wes McKinney,89.9,2,São Paulo,SP
+1020,2024-10-05,C543,Não-Ficção,Sapiens: Uma Breve História da Humanidade,Yuval Noah Harari,61.0,1,Belo Horizonte,MG
