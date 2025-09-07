@@ -1,0 +1,26 @@
+id_paciente,data_nascimento,data_internacao,data_infeccao,tipo_infeccao,data_coleta_cultura,microorganismo,perfil_resistencia,setor_internacao
+P001,1958-07-15,2025-07-20,2025-08-05,PAV,2025-08-06,Acinetobacter baumannii,Multirresistente,UTI Adulto
+P002,1999-02-20,2025-07-25,2025-08-07,ITU-SVD,2025-08-07,Klebsiella pneumoniae,KPC,UTI Adulto
+P003,1965-01-30,2025-08-01,2025-08-08,IPCSL,2025-08-08,Staphylococcus aureus,MRSA,UTI Adulto
+P004,1943-11-12,2025-07-15,2025-08-10,PAV,2025-08-11,Pseudomonas aeruginosa,Multirresistente,UTI Adulto
+P005,1988-09-03,2025-08-10,2025-08-18,ITU-SVD,2025-08-18,Escherichia coli,Sensível,Clínica Médica
+P006,1976-05-22,2025-08-02,2025-08-20,PAV,2025-08-20,Klebsiella pneumoniae,KPC,UTI Adulto
+P007,1960-03-14,2025-08-15,2025-08-25,IPCSL,2025-08-25,Staphylococcus epidermidis,Sensível,Clínica Cirúrgica
+P008,1951-12-01,2025-08-20,2025-09-02,ITU-SVD,2025-09-03,Klebsiella pneumoniae,KPC,UTI Adulto
+P009,1992-08-17,2025-08-22,2025-09-05,PAV,2025-09-05,Acinetobacter baumannii,Multirresistente,UTI Adulto
+P010,2001-06-09,2025-09-01,2025-09-10,ITU-SVD,2025-09-10,Proteus mirabilis,Sensível,Clínica Médica
+P011,1948-10-28,2025-08-18,2025-09-12,IPCSL,2025-09-13,Staphylococcus aureus,MRSA,UTI Adulto
+P012,1967-04-16,2025-09-05,2025-09-15,PAV,2025-09-15,Klebsiella pneumoniae,KPC,UTI Adulto
+P013,1955-07-30,2025-09-10,2025-09-22,ITU-SVD,2025-09-22,Pseudomonas aeruginosa,Multirresistente,UTI Adulto
+P014,1981-01-25,2025-09-20,2025-09-28,PAV,2025-09-28,Serratia marcescens,Sensível,Clínica Cirúrgica
+P015,1963-09-11,2025-09-15,2025-10-01,IPCSL,2025-10-02,Enterococcus faecalis,VRE,UTI Adulto
+P016,1995-03-04,2025-09-25,2025-10-05,PAV,2025-10-05,Klebsiella pneumoniae,KPC,UTI Adulto
+P017,1946-08-08,2025-09-18,2025-10-08,ITU-SVD,2025-10-09,Klebsiella pneumoniae,KPC,UTI Adulto
+P018,1972-11-27,2025-10-01,2025-10-14,PAV,2025-10-14,Pseudomonas aeruginosa,Multirresistente,UTI Adulto
+P019,2005-02-13,2025-10-10,2025-10-22,IPCSL,2025-10-22,Staphylococcus aureus,MRSA,UTI Pediátrica
+P020,1959-05-18,2025-10-12,2025-10-25,ITU-SVD,2025-10-25,Enterococcus faecalis,Sensível,Clínica Médica
+P021,1968-12-30,2025-10-20,2025-11-04,PAV,2025-11-04,Acinetobacter baumannii,Multirresistente,UTI Adulto
+P022,1985-10-10,2025-10-15,2025-11-06,ITU-SVD,2025-11-07,Klebsiella pneumoniae,KPC,Clínica Cirúrgica
+P023,1953-04-02,2025-11-01,2025-11-12,IPCSL,2025-11-12,Staphylococcus aureus,MRSA,UTI Adulto
+P024,1978-06-21,2025-11-05,2025-11-18,PAV,2025-11-19,Klebsiella pneumoniae,KPC,UTI Adulto
+P025,1961-09-07,2025-11-16,2025-11-26,ITU-SVD,2025-11-26,Escherichia coli,Sensível,Clínica Médica
